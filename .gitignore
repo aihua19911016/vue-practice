@@ -1,0 +1,23 @@
+# OSX
+#
+.DS_Store
+
+# iOS 不做iOS平台
+#
+
+# Android
+#
+build/
+.idea
+.gradle
+local.properties
+*.iml
+/android/apk/
+
+# node.js
+#
+node_modules/
+
+# General
+#
+*.log
