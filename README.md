@@ -28,3 +28,7 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+2018/11/6(/src/router/router.js; /src/views/home.vue; /src/views/login.vue)
+1. 标签span input
+2. vue的v-model @click
+3. vue页面跳转this$router.push()/replace()方法区别
