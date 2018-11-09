@@ -29,6 +29,10 @@ npm test
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
+2018/11/9(/src/views/login.vue; /src/main.js)
+1. Element UI el-form表单验证
+2. axios配置
+
 2018/11/8(/src/views/login.vue; /src/main.js)
 1. Element UI 安装，配置
 2. el-form/el-button使用
